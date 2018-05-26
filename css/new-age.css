@@ -159,6 +159,17 @@ header.masthead {
   background: url("../img/bg-pattern.png"), linear-gradient(to left, #CEA749, rgb(194, 149, 45));
 }
 
+header.masthead-small {
+  position: relative;
+  width: 100%;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  color: white;
+  background: url("../img/bg-pattern.png"), #CEA749;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #CEA749, rgb(194, 149, 45));
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #CEA749, rgb(194, 149, 45));
+}
+
 header.masthead .header-content {
   max-width: 500px;
   margin-bottom: 100px;
